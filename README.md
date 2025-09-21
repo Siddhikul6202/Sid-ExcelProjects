@@ -1,1 +1,1 @@
-# Sid-ExcelProjects
+Designed and developed interactive Excel dashboards to analyze and visulize data across different domains. The dashboards provides clear insights through charts, pivot tables, slicers, andconditional formatting, making complex datasets easy to understand for decision making.
